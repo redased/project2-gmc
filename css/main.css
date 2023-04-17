@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto&display=swap');
+
+body {
+    margin: 0;
+}
+
+#banner {
+    height: 90vh;
+    background-image: url(../res/img/back3.jpg); 
+    background-size: cover; 
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+
+#contact {
+   
+  
+    padding: 10px 0;
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 30px;
+    margin-top: 5%;
+    margin-left: 15%;
+    display: inline-block;
+  
+}
+
+
+.contact-form {
+    width: 250px;
+    height: 23px;
+    padding: 15px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    border: 1px #a18880 solid;
+    outline: none;
+    background: transparent;
+    justify-content: space-between;
+    color: #fff;
+    border-spacing:0 15px;
+}
+.message-form{
+    height: 50px;
+}
+label {
+    color: #fff;
+}
+
+#send:hover {
+    background-color: #968e80;
+}
+
+#send:active {
+    background-color: transparent;
+}
+label, input {
+    display: block;
+}
+
+
+label {
+    margin-bottom: 5px;
+}
+
+footer {
+    height: 70px;
+    background-color: #242525;
+   
+}
+
+footer > a {
+    color: #968e80;
+    font-size: 17px;
+    
+}
+
+.fa-linkedin-square {
+    color: #0a66c2;
+    font-size: 45px;
+    margin-left: 45%;
+    
+}

@@ -1,0 +1,40 @@
+.navigation {
+    height: 80px;
+    background-color: #242525;
+}
+#nav-logo {
+    height:80px;
+    width:auto;
+    display: inline-block;
+    margin-left: 90px;
+}
+
+.citation {
+   
+    display: inline-block;
+    color: #968e80;
+    padding: 0 20px;
+    font-size: 18px;
+    position: relative;
+    bottom: 33px;
+}
+.nav-items {
+    display: inline-block;
+    list-style: none;
+ 
+}
+
+.nav-items > li {
+    display:inline-block;
+    position: relative;
+    padding: 0 20px;
+    bottom: 33px;
+    color: #968e80;
+}
+
+.nav-link {
+    color: #968e80;
+    text-decoration: none;
+    font-size: 17px;
+}
+
